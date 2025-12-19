@@ -42,23 +42,6 @@ Built using Streamlit, NLP, and Ollama (Local LLM) to assist sales agents with r
 
 ---
 
-## 📁 Project Structure
-## 📁 Project Structure
-```text
-sales_call_ai/
-│── app.py
-│── requirements.txt
-│── LICENSE
-│── README.md
-│
-├── stt/              # Speech to text
-├── nlp/              # Intent, sentiment, entity
-├── ai_reasoning/     # Ollama based reasoning
-├── audio/            # Audio handling
-├── reports/          # Call summaries
-├── utils/            # Helpers
-└── venv/             # Virtual environment (ignored)
-
 
 
 ## ⚙️ Setup & Run
