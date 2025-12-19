@@ -65,7 +65,7 @@ sales_call_ai/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/sales_call_ai.git
+git clone https://github.com/mitali2701/Real_time_sales_call_ai.git
 cd sales_call_ai
 
 2️⃣ Create Virtual Environment
