@@ -101,11 +101,4 @@ AI sales coaching
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it.
 
-🙌 Author
-
-Mitali Doble
-AI engineer
-
-⭐ If you like this project, please star the repository!
-
 
