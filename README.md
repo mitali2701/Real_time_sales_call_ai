@@ -1,4 +1,4 @@
-# 🎧 Sales Call AI (Ollama Powered)
+# 🎧Real time  Sales Call AI (Ollama Powered)
 
 AI-powered Sales Call Assistant that transcribes customer & salesperson audio,
 performs **speaker diarization**, **intent detection**, **sentiment analysis**,
